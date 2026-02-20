@@ -75,6 +75,9 @@ This helps in understanding model performance visually.
 - Implement advanced models like LSTM
 - Predict multiple days ahead
 - Deploy as a web application
+# 📈 Stock Market Price Prediction using Linear Regression
+
+![Stock Market](https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3)
 
 ---
 
