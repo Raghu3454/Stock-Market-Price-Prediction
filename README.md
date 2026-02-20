@@ -9,6 +9,7 @@ The objective of this project is to understand financial time-series data and ap
 
 ## 📊 Dataset
 - Source: Yahoo Finance (using yFinance library)
+- Stock Used: Apple Inc. (Ticker: AAPL)
 - Feature Used: Closing Price
 - Time Period: 2015 – 2024
 - Target Variable: Next day's closing price
@@ -27,7 +28,7 @@ The objective of this project is to understand financial time-series data and ap
 
 ## 🧠 Methodology
 
-1. Download historical stock data using yFinance
+1. Download historical stock data of Apple Inc.
 2. Create a prediction column by shifting closing prices
 3. Split dataset into training and testing sets
 4. Train Linear Regression model
@@ -49,7 +50,7 @@ The objective of this project is to understand financial time-series data and ap
 
 ## 🚀 Key Features
 
-✔ Real-time stock data fetching  
+✔ Historical stock data fetching  
 ✔ Data preprocessing and cleaning  
 ✔ Linear Regression model training  
 ✔ Performance evaluation  
